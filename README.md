@@ -2,5 +2,5 @@
 ## My Progress
 
 <!-- 112 Spaces -->
-#### Problems Solved: 18/105
-<pre>[###################                                                                                             ]</pre>
+#### Problems Solved: 25/105
+<pre>[###########################                                                                                     ]</pre>
