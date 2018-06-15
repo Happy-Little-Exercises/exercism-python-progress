@@ -1,6 +1,5 @@
 # Exercism (Python)
 ## My Progress
 
-<!-- 112 Spaces -->
-#### Problems Solved: 63/105
-<pre>[###################################################################                                             ]</pre>
+#### Problems Solved:
+<img src="https://progressbadges.herokuapp.com/63/105" width="100%">
