@@ -2,4 +2,4 @@
 ## My Progress
 
 #### Problems Solved:
-<img src="https://progressbadges.herokuapp.com/63/105" width="100%">
+<img src="https://progressbadges.herokuapp.com/65/105" width="100%">
