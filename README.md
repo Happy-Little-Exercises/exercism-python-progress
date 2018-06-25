@@ -1,5 +1,7 @@
-# Exercism (Python)
-## My Progress
+# Exercism `Python`
 
-#### Problems Solved:
+##### Problems Solved:
 <img src="https://progressbadges.herokuapp.com/65/105" width="100%">
+
+## Useful Gists
+*TODO*
